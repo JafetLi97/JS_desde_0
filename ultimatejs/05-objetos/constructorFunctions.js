@@ -7,5 +7,7 @@ function Usuario(){
     };
 };
 
-let usuario = new Usuario(); // new es una palabra reservada de js que se usa para crear un nuevo objeto a partir de una funcion constructora
+let usuario = new Usuario(); // new es una palabra reservada de js que se usa para crear un nuevo 
+// objeto a partir de una funcion constructora
+
 console.log(usuario);
